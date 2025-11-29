@@ -1,0 +1,244 @@
+[2025-11-27 16:30:55] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:55] [INFO] Task added: TASK-53C9EC - Test Task
+[2025-11-27 16:30:55] [INFO] Task created successfully: TASK-53C9EC
+[2025-11-27 16:30:55] [INFO] Data loaded successfully. Total tasks: 1
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 16:30:55] [INFO] Task added: TASK-F85CE4 - Task to Delete
+[2025-11-27 16:30:55] [INFO] Task created successfully: TASK-F85CE4
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:55] [INFO] Task deleted: TASK-F85CE4
+[2025-11-27 16:30:55] [INFO] Task deleted: TASK-F85CE4
+[2025-11-27 16:30:55] [INFO] Data loaded successfully. Total tasks: 1
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 0
+[2025-11-27 16:30:55] [INFO] Task deleted: TASK-53C9EC
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:55] [INFO] Task added: TASK-EFBFAC - Overdue Task
+[2025-11-27 16:30:55] [INFO] Task created successfully: TASK-EFBFAC
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 16:30:55] [INFO] Task added: TASK-926F5F - Future Task
+[2025-11-27 16:30:55] [INFO] Task created successfully: TASK-926F5F
+[2025-11-27 16:30:55] [INFO] Overdue tasks report generated: 1 tasks
+[2025-11-27 16:30:55] [INFO] Data loaded successfully. Total tasks: 2
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:55] [INFO] Task deleted: TASK-EFBFAC
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 0
+[2025-11-27 16:30:55] [INFO] Task deleted: TASK-926F5F
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:55] [INFO] Task added: TASK-352FE5 - Task 1
+[2025-11-27 16:30:55] [INFO] Task created successfully: TASK-352FE5
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 16:30:55] [INFO] Task added: TASK-5762AD - Task 2
+[2025-11-27 16:30:55] [INFO] Task created successfully: TASK-5762AD
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 16:30:55] [INFO] Task updated: TASK-5762AD - Task 2
+[2025-11-27 16:30:55] [INFO] Task TASK-5762AD status updated: ToDo -> Done
+[2025-11-27 16:30:55] [INFO] Data loaded successfully. Total tasks: 2
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:55] [INFO] Task deleted: TASK-352FE5
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 0
+[2025-11-27 16:30:55] [INFO] Task deleted: TASK-5762AD
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:55] [INFO] Task added: TASK-ED19A8 - Upcoming Task
+[2025-11-27 16:30:55] [INFO] Task created successfully: TASK-ED19A8
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 16:30:55] [INFO] Task added: TASK-E9830F - Far Future Task
+[2025-11-27 16:30:55] [INFO] Task created successfully: TASK-E9830F
+[2025-11-27 16:30:55] [INFO] Upcoming tasks report generated (next 7 days): 1 tasks
+[2025-11-27 16:30:55] [INFO] Data loaded successfully. Total tasks: 2
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 3
+[2025-11-27 16:30:55] [INFO] Task added: TASK-FFB993 - Update Test
+[2025-11-27 16:30:55] [INFO] Task created successfully: TASK-FFB993
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 3
+[2025-11-27 16:30:55] [INFO] Task updated: TASK-FFB993 - Update Test
+[2025-11-27 16:30:55] [INFO] Task TASK-FFB993 status updated: ToDo -> InProgress
+[2025-11-27 16:30:55] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 16:30:55] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:55] [INFO] Task added: TEST-001 - Test Task
+[2025-11-27 16:30:56] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 16:30:56] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:56] [INFO] Task added: TEST-007 - Task 1
+[2025-11-27 16:30:56] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 16:30:56] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:56] [INFO] Task added: TEST-004 - Task to Delete
+[2025-11-27 16:30:56] [INFO] Data saved successfully. Total tasks: 0
+[2025-11-27 16:30:56] [INFO] Task deleted: TEST-004
+[2025-11-27 16:30:56] [INFO] Data loaded successfully. Total tasks: 0
+[2025-11-27 16:30:56] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 16:30:56] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:56] [INFO] Task added: TEST-005 - Task 1
+[2025-11-27 16:30:56] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 16:30:56] [INFO] Task added: TEST-006 - Task 2
+[2025-11-27 16:30:56] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 16:30:56] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:56] [INFO] Task added: TEST-002 - Persistent Task
+[2025-11-27 16:30:56] [INFO] Data loaded successfully. Total tasks: 1
+[2025-11-27 16:30:56] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 16:30:56] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:56] [INFO] Task added: TEST-003 - Original Title
+[2025-11-27 16:30:56] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:30:56] [INFO] Task updated: TEST-003 - Updated Title
+[2025-11-27 17:06:01] [INFO] Data loaded successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 17:06:01] [INFO] Task added: TASK-08F843 - Test Task
+[2025-11-27 17:06:01] [INFO] Task created successfully: TASK-08F843
+[2025-11-27 17:06:01] [INFO] Data loaded successfully. Total tasks: 2
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 3
+[2025-11-27 17:06:01] [INFO] Task added: TASK-98DA25 - Task to Delete
+[2025-11-27 17:06:01] [INFO] Task created successfully: TASK-98DA25
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 17:06:01] [INFO] Task deleted: TASK-98DA25
+[2025-11-27 17:06:01] [INFO] Task deleted: TASK-98DA25
+[2025-11-27 17:06:01] [INFO] Data loaded successfully. Total tasks: 2
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Task deleted: TEST-003
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 0
+[2025-11-27 17:06:01] [INFO] Task deleted: TASK-08F843
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Task added: TASK-EA801D - Overdue Task
+[2025-11-27 17:06:01] [INFO] Task created successfully: TASK-EA801D
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 17:06:01] [INFO] Task added: TASK-A8C784 - Future Task
+[2025-11-27 17:06:01] [INFO] Task created successfully: TASK-A8C784
+[2025-11-27 17:06:01] [INFO] Overdue tasks report generated: 1 tasks
+[2025-11-27 17:06:01] [INFO] Data loaded successfully. Total tasks: 2
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Task deleted: TASK-EA801D
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 0
+[2025-11-27 17:06:01] [INFO] Task deleted: TASK-A8C784
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Task added: TASK-19CFD2 - Task 1
+[2025-11-27 17:06:01] [INFO] Task created successfully: TASK-19CFD2
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 17:06:01] [INFO] Task added: TASK-8AD7CB - Task 2
+[2025-11-27 17:06:01] [INFO] Task created successfully: TASK-8AD7CB
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 17:06:01] [INFO] Task updated: TASK-8AD7CB - Task 2
+[2025-11-27 17:06:01] [INFO] Task TASK-8AD7CB status updated: ToDo -> Done
+[2025-11-27 17:06:01] [INFO] Data loaded successfully. Total tasks: 2
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Task deleted: TASK-19CFD2
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 0
+[2025-11-27 17:06:01] [INFO] Task deleted: TASK-8AD7CB
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Task added: TASK-76CAD9 - Upcoming Task
+[2025-11-27 17:06:01] [INFO] Task created successfully: TASK-76CAD9
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 17:06:01] [INFO] Task added: TASK-93BB6B - Far Future Task
+[2025-11-27 17:06:01] [INFO] Task created successfully: TASK-93BB6B
+[2025-11-27 17:06:01] [INFO] Upcoming tasks report generated (next 7 days): 1 tasks
+[2025-11-27 17:06:01] [INFO] Data loaded successfully. Total tasks: 2
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 3
+[2025-11-27 17:06:01] [INFO] Task added: TASK-159A1B - Update Test
+[2025-11-27 17:06:01] [INFO] Task created successfully: TASK-159A1B
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 3
+[2025-11-27 17:06:01] [INFO] Task updated: TASK-159A1B - Update Test
+[2025-11-27 17:06:01] [INFO] Task TASK-159A1B status updated: ToDo -> InProgress
+[2025-11-27 17:06:01] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Task added: TEST-001 - Test Task
+[2025-11-27 17:06:01] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Task added: TEST-007 - Task 1
+[2025-11-27 17:06:01] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Task added: TEST-004 - Task to Delete
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 0
+[2025-11-27 17:06:01] [INFO] Task deleted: TEST-004
+[2025-11-27 17:06:01] [INFO] Data loaded successfully. Total tasks: 0
+[2025-11-27 17:06:01] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Task added: TEST-005 - Task 1
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 17:06:01] [INFO] Task added: TEST-006 - Task 2
+[2025-11-27 17:06:01] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Task added: TEST-002 - Persistent Task
+[2025-11-27 17:06:01] [INFO] Data loaded successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Task added: TEST-003 - Original Title
+[2025-11-27 17:06:01] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 17:06:01] [INFO] Task updated: TEST-003 - Updated Title
+[2025-11-27 18:23:10] [INFO] Data loaded successfully. Total tasks: 1
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 18:23:10] [INFO] Task added: TASK-BA595F - Test Task
+[2025-11-27 18:23:10] [INFO] Task created successfully: TASK-BA595F
+[2025-11-27 18:23:10] [INFO] Data loaded successfully. Total tasks: 2
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 3
+[2025-11-27 18:23:10] [INFO] Task added: TASK-92238C - Task to Delete
+[2025-11-27 18:23:10] [INFO] Task created successfully: TASK-92238C
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 18:23:10] [INFO] Task deleted: TASK-92238C
+[2025-11-27 18:23:10] [INFO] Task deleted: TASK-92238C
+[2025-11-27 18:23:10] [INFO] Data loaded successfully. Total tasks: 2
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 18:23:10] [INFO] Task deleted: TEST-003
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 0
+[2025-11-27 18:23:10] [INFO] Task deleted: TASK-BA595F
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 18:23:10] [INFO] Task added: TASK-FA9EC5 - Overdue Task
+[2025-11-27 18:23:10] [INFO] Task created successfully: TASK-FA9EC5
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 18:23:10] [INFO] Task added: TASK-1935DC - Future Task
+[2025-11-27 18:23:10] [INFO] Task created successfully: TASK-1935DC
+[2025-11-27 18:23:10] [INFO] Overdue tasks report generated: 1 tasks
+[2025-11-27 18:23:10] [INFO] Data loaded successfully. Total tasks: 2
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 18:23:10] [INFO] Task deleted: TASK-FA9EC5
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 0
+[2025-11-27 18:23:10] [INFO] Task deleted: TASK-1935DC
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 18:23:10] [INFO] Task added: TASK-6987FF - Task 1
+[2025-11-27 18:23:10] [INFO] Task created successfully: TASK-6987FF
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 18:23:10] [INFO] Task added: TASK-443B5C - Task 2
+[2025-11-27 18:23:10] [INFO] Task created successfully: TASK-443B5C
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 18:23:10] [INFO] Task updated: TASK-443B5C - Task 2
+[2025-11-27 18:23:10] [INFO] Task TASK-443B5C status updated: ToDo -> Done
+[2025-11-27 18:23:10] [INFO] Data loaded successfully. Total tasks: 2
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 18:23:10] [INFO] Task deleted: TASK-6987FF
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 0
+[2025-11-27 18:23:10] [INFO] Task deleted: TASK-443B5C
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 18:23:10] [INFO] Task added: TASK-C81D23 - Upcoming Task
+[2025-11-27 18:23:10] [INFO] Task created successfully: TASK-C81D23
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 18:23:10] [INFO] Task added: TASK-72F555 - Far Future Task
+[2025-11-27 18:23:10] [INFO] Task created successfully: TASK-72F555
+[2025-11-27 18:23:10] [INFO] Upcoming tasks report generated (next 7 days): 1 tasks
+[2025-11-27 18:23:10] [INFO] Data loaded successfully. Total tasks: 2
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 3
+[2025-11-27 18:23:10] [INFO] Task added: TASK-239CD5 - Update Test
+[2025-11-27 18:23:10] [INFO] Task created successfully: TASK-239CD5
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 3
+[2025-11-27 18:23:10] [INFO] Task updated: TASK-239CD5 - Update Test
+[2025-11-27 18:23:10] [INFO] Task TASK-239CD5 status updated: ToDo -> InProgress
+[2025-11-27 18:23:10] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 18:23:10] [INFO] Task added: TEST-001 - Test Task
+[2025-11-27 18:23:10] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 18:23:10] [INFO] Task added: TEST-007 - Task 1
+[2025-11-27 18:23:10] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 18:23:10] [INFO] Task added: TEST-004 - Task to Delete
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 0
+[2025-11-27 18:23:10] [INFO] Task deleted: TEST-004
+[2025-11-27 18:23:10] [INFO] Data loaded successfully. Total tasks: 0
+[2025-11-27 18:23:10] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 18:23:10] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 18:23:10] [INFO] Task added: TEST-005 - Task 1
+[2025-11-27 18:23:11] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 18:23:11] [INFO] Task added: TEST-006 - Task 2
+[2025-11-27 18:23:11] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 18:23:11] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 18:23:11] [INFO] Task added: TEST-002 - Persistent Task
+[2025-11-27 18:23:11] [INFO] Data loaded successfully. Total tasks: 1
+[2025-11-27 18:23:11] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 18:23:11] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 18:23:11] [INFO] Task added: TEST-003 - Original Title
+[2025-11-27 18:23:11] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 18:23:11] [INFO] Task updated: TEST-003 - Updated Title

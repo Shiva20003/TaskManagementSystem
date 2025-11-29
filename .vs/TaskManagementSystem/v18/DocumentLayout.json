@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDF4429-251A-416D-BB68-93F227191BCF}|TaskManagementSystem.Tests\\TaskManagementSystem.Tests.csproj|d:\\works\\pj 822 shiva\\taskmanagementsystem\\taskmanagementsystem\\taskmanagementsystem.tests\\taskrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDF4429-251A-416D-BB68-93F227191BCF}|TaskManagementSystem.Tests\\TaskManagementSystem.Tests.csproj|solutionrelative:taskmanagementsystem.tests\\taskrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDF4429-251A-416D-BB68-93F227191BCF}|TaskManagementSystem.Tests\\TaskManagementSystem.Tests.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem.tests\\taskmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDF4429-251A-416D-BB68-93F227191BCF}|TaskManagementSystem.Tests\\TaskManagementSystem.Tests.csproj|solutionrelative:taskmanagementsystem.tests\\taskmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDF4429-251A-416D-BB68-93F227191BCF}|TaskManagementSystem.Tests\\TaskManagementSystem.Tests.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem.tests\\taskitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDF4429-251A-416D-BB68-93F227191BCF}|TaskManagementSystem.Tests\\TaskManagementSystem.Tests.csproj|solutionrelative:taskmanagementsystem.tests\\taskitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDF4429-251A-416D-BB68-93F227191BCF}|TaskManagementSystem.Tests\\TaskManagementSystem.Tests.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem.tests\\sortingalgorithmstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDF4429-251A-416D-BB68-93F227191BCF}|TaskManagementSystem.Tests\\TaskManagementSystem.Tests.csproj|solutionrelative:taskmanagementsystem.tests\\sortingalgorithmstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDF4429-251A-416D-BB68-93F227191BCF}|TaskManagementSystem.Tests\\TaskManagementSystem.Tests.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem.tests\\searchalgorithmstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDF4429-251A-416D-BB68-93F227191BCF}|TaskManagementSystem.Tests\\TaskManagementSystem.Tests.csproj|solutionrelative:taskmanagementsystem.tests\\searchalgorithmstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDF4429-251A-416D-BB68-93F227191BCF}|TaskManagementSystem.Tests\\TaskManagementSystem.Tests.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem.tests\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDF4429-251A-416D-BB68-93F227191BCF}|TaskManagementSystem.Tests\\TaskManagementSystem.Tests.csproj|solutionrelative:taskmanagementsystem.tests\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\utilities\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\utilities\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\ui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\ui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\services\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\services\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\services\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\services\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\services\\taskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\services\\taskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\services\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\services\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\models\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\models\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\algorithms\\sortingalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\algorithms\\sortingalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\algorithms\\searchalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\algorithms\\searchalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\taskmanagementsystem\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A30C0-DE24-47A1-83DC-2F7CDDA90964}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskRepositoryTests.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem.Tests\\TaskRepositoryTests.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.Tests\\TaskRepositoryTests.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem.Tests\\TaskRepositoryTests.cs",
+              "RelativeToolTip": "TaskManagementSystem.Tests\\TaskRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:38:27.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManagerTests.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem.Tests\\TaskManagerTests.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.Tests\\TaskManagerTests.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem.Tests\\TaskManagerTests.cs",
+              "RelativeToolTip": "TaskManagementSystem.Tests\\TaskManagerTests.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:38:23.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItemTests.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem.Tests\\TaskItemTests.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.Tests\\TaskItemTests.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem.Tests\\TaskItemTests.cs",
+              "RelativeToolTip": "TaskManagementSystem.Tests\\TaskItemTests.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:38:20.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortingAlgorithmsTests.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem.Tests\\SortingAlgorithmsTests.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.Tests\\SortingAlgorithmsTests.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem.Tests\\SortingAlgorithmsTests.cs",
+              "RelativeToolTip": "TaskManagementSystem.Tests\\SortingAlgorithmsTests.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:38:16.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchAlgorithmsTests.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem.Tests\\SearchAlgorithmsTests.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.Tests\\SearchAlgorithmsTests.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem.Tests\\SearchAlgorithmsTests.cs",
+              "RelativeToolTip": "TaskManagementSystem.Tests\\SearchAlgorithmsTests.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:38:12.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem.Tests\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.Tests\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem.Tests\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "TaskManagementSystem.Tests\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:38:06.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Program.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Program.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:37:55.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputValidator.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Utilities\\InputValidator.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Utilities\\InputValidator.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Utilities\\InputValidator.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Utilities\\InputValidator.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:37:49.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleUI.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\UI\\ConsoleUI.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\UI\\ConsoleUI.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\UI\\ConsoleUI.cs",
+              "RelativeToolTip": "TaskManagementSystem\\UI\\ConsoleUI.cs",
+              "ViewState": "AgIAALoBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:37:38.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Services\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Services\\TaskRepository.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Services\\TaskRepository.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Services\\TaskRepository.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:37:29.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Services\\TaskManager.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Services\\TaskManager.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Services\\TaskManager.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Services\\TaskManager.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:37:23.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskFactory.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Services\\TaskFactory.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Services\\TaskFactory.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Services\\TaskFactory.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Services\\TaskFactory.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:37:21.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Services\\FileLogger.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Services\\FileLogger.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Services\\FileLogger.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Services\\FileLogger.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:37:18.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Models\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Models\\TaskStatus.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Models\\TaskStatus.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Models\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:37:15.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Models\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Models\\TaskPriority.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Models\\TaskPriority.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Models\\TaskPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:37:13.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Models\\TaskItem.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:37:10.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:37:07.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Interfaces\\ILogger.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Interfaces\\ILogger.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Interfaces\\ILogger.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Interfaces\\ILogger.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:37:05.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SortingAlgorithms.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Algorithms\\SortingAlgorithms.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Algorithms\\SortingAlgorithms.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Algorithms\\SortingAlgorithms.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Algorithms\\SortingAlgorithms.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAALYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:36:51.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchAlgorithms.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Algorithms\\SearchAlgorithms.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Algorithms\\SearchAlgorithms.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Algorithms\\SearchAlgorithms.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Algorithms\\SearchAlgorithms.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:36:46.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\WORKS\\Pj 822 Shiva\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystem\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:36:41.721Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

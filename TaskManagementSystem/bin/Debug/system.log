@@ -1,0 +1,58 @@
+[2025-11-27 16:08:50] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 16:08:50] [INFO] === Task Management System Started ===
+[2025-11-27 16:10:05] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 16:10:05] [INFO] === Task Management System Started ===
+[2025-11-27 16:10:09] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 16:10:09] [INFO] === Task Management System Started ===
+[2025-11-27 16:17:19] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 16:17:19] [INFO] === Task Management System Started ===
+[2025-11-27 16:33:42] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 16:33:42] [INFO] === Task Management System Started ===
+[2025-11-27 16:37:37] [INFO] Data file not found. Starting with empty task list.
+[2025-11-27 16:37:37] [INFO] === Task Management System Started ===
+[2025-11-27 16:39:16] [INFO] Data saved successfully. Total tasks: 1
+[2025-11-27 16:39:16] [INFO] Task added: TASK-5CBB1C - Fix Login Bug
+[2025-11-27 16:39:16] [INFO] Task created successfully: TASK-5CBB1C
+[2025-11-27 16:40:19] [INFO] Data saved successfully. Total tasks: 2
+[2025-11-27 16:40:19] [INFO] Task added: TASK-08B9F1 - Database Design
+[2025-11-27 16:40:19] [INFO] Task created successfully: TASK-08B9F1
+[2025-11-27 16:40:49] [INFO] Data saved successfully. Total tasks: 3
+[2025-11-27 16:40:49] [INFO] Task added: TASK-D39DC3 - Write Tests
+[2025-11-27 16:40:49] [INFO] Task created successfully: TASK-D39DC3
+[2025-11-27 16:42:15] [INFO] Tasks sorted by priority (QuickSort): 3 tasks
+[2025-11-27 16:42:27] [INFO] Tasks sorted by due date (MergeSort): 3 tasks
+[2025-11-27 16:42:43] [INFO] Search by title 'Data': 1 results found
+[2025-11-27 16:42:58] [INFO] Search by assignee 'alice': 2 results found
+[2025-11-27 16:43:43] [INFO] Binary search by ID 'Task-5CBB1C': Not found
+[2025-11-27 16:44:05] [INFO] Binary search by ID 'TASK-5CBB1C': Found
+[2025-11-27 16:44:26] [INFO] Overdue tasks report generated: 1 tasks
+[2025-11-27 16:44:52] [INFO] Upcoming tasks report generated (next 7 days): 1 tasks
+[2025-11-27 16:45:21] [INFO] Data saved successfully. Total tasks: 4
+[2025-11-27 16:45:21] [INFO] Task added: TASK-8BB2CC - fw
+[2025-11-27 16:45:21] [INFO] Task created successfully: TASK-8BB2CC
+[2025-11-27 16:45:37] [INFO] Binary search by ID 'TASK-8BB2CC': Found
+[2025-11-27 16:45:40] [INFO] Data saved successfully. Total tasks: 3
+[2025-11-27 16:45:40] [INFO] Task deleted: TASK-8BB2CC
+[2025-11-27 16:45:40] [INFO] Task deleted: TASK-8BB2CC
+[2025-11-27 16:46:23] [INFO] === Task Management System Exited ===
+[2025-11-27 17:01:55] [INFO] Data loaded successfully. Total tasks: 3
+[2025-11-27 17:01:55] [INFO] === Task Management System Started ===
+[2025-11-27 17:03:18] [INFO] Data saved successfully. Total tasks: 4
+[2025-11-27 17:03:18] [INFO] Task added: TASK-E68D96 - UI design updation
+[2025-11-27 17:03:18] [INFO] Task created successfully: TASK-E68D96
+[2025-11-27 17:03:38] [INFO] Binary search by ID 'TASK-E68D96': Found
+[2025-11-27 17:03:44] [INFO] Data saved successfully. Total tasks: 4
+[2025-11-27 17:03:44] [INFO] Task updated: TASK-E68D96 - UI design updation
+[2025-11-27 17:03:44] [INFO] Task TASK-E68D96 status updated: ToDo -> InProgress
+[2025-11-27 17:03:54] [INFO] Search by title 'UI': 1 results found
+[2025-11-27 17:04:06] [INFO] Search by assignee 'Alice': 2 results found
+[2025-11-27 17:04:28] [INFO] Binary search by ID 'TASK-E68D96': Found
+[2025-11-27 17:04:40] [INFO] Tasks sorted by priority (QuickSort): 4 tasks
+[2025-11-27 17:04:45] [INFO] Tasks sorted by due date (MergeSort): 4 tasks
+[2025-11-27 17:04:55] [INFO] Overdue tasks report generated: 1 tasks
+[2025-11-27 17:05:04] [INFO] Upcoming tasks report generated (next 7 days): 1 tasks
+[2025-11-27 17:05:19] [INFO] Binary search by ID 'TASK-E68D96': Found
+[2025-11-27 17:05:21] [INFO] Data saved successfully. Total tasks: 3
+[2025-11-27 17:05:21] [INFO] Task deleted: TASK-E68D96
+[2025-11-27 17:05:21] [INFO] Task deleted: TASK-E68D96
+[2025-11-27 17:05:35] [INFO] === Task Management System Exited ===

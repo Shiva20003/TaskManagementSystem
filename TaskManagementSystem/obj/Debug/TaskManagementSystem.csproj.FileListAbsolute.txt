@@ -1,0 +1,10 @@
+D:\WORKS\Pj 822 Shiva\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\TaskManagementSystem.exe.config
+D:\WORKS\Pj 822 Shiva\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\TaskManagementSystem.exe
+D:\WORKS\Pj 822 Shiva\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\TaskManagementSystem.pdb
+D:\WORKS\Pj 822 Shiva\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\TaskManagementSystem.csproj.AssemblyReference.cache
+D:\WORKS\Pj 822 Shiva\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\TaskManagementSystem.csproj.CoreCompileInputs.cache
+D:\WORKS\Pj 822 Shiva\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\TaskManagementSystem.exe
+D:\WORKS\Pj 822 Shiva\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\TaskManagementSystem.pdb
+D:\WORKS\Pj 822 Shiva\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\WORKS\Pj 822 Shiva\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\WORKS\Pj 822 Shiva\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\TaskMana.27CB023B.Up2Date
