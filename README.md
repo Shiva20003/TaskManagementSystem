@@ -116,9 +116,3 @@ TaskManagementSystem\bin\Debug\TaskManagementSystem.exe
 - Exception handling for file I/O operations
 - Graceful handling of malformed JSON data
 - Defensive programming throughout
-
-## Author
-Software Engineering Assignment - Scenario 3: Task & Project Tracker
-
-## License
-Educational Project
