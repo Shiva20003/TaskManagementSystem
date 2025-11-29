@@ -4,14 +4,14 @@
 A comprehensive console-based Task & Project Tracking System built in C# (.NET Framework 4.7.2) that demonstrates professional software engineering practices including OOP design, design patterns, algorithms, data persistence, and unit testing.
 
 ## Features
-- ✅ **Task Management**: Create, update, search, sort, and delete tasks
-- ✅ **Task Properties**: Unique IDs, due dates, priorities (Low/Medium/High), status (ToDo/InProgress/Done), assignees
-- ✅ **Search Algorithms**: Linear search (by title/assignee) and Binary search (by ID)
-- ✅ **Sorting Algorithms**: QuickSort (by priority) and MergeSort (by due date)
-- ✅ **Reports**: Overdue tasks and upcoming tasks reports
-- ✅ **Data Persistence**: JSON file storage for tasks
-- ✅ **Logging**: Text file logging with timestamps
-- ✅ **Error Handling**: Comprehensive exception handling throughout
+- **Task Management**: Create, update, search, sort, and delete tasks
+- **Task Properties**: Unique IDs, due dates, priorities (Low/Medium/High), status (ToDo/InProgress/Done), assignees
+- **Search Algorithms**: Linear search (by title/assignee) and Binary search (by ID)
+- **Sorting Algorithms**: QuickSort (by priority) and MergeSort (by due date)
+- **Reports**: Overdue tasks and upcoming tasks reports
+- **Data Persistence**: JSON file storage for tasks
+- **Logging**: Text file logging with timestamps
+- **Error Handling**: Comprehensive exception handling throughout
 
 ## Design Patterns Implemented
 1. **Singleton Pattern** - FileLogger ensures single instance for centralized logging
